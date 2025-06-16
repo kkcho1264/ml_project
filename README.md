@@ -24,6 +24,7 @@ Análisis de resultados y selección del mejor modelo
 
 Despliegue del modelo entrenado
 
+Lo pueden ver aqui: https://drive.google.com/file/d/1Adp3uva-KTyZPQhmm11c5idvXMNSM8Ah/view?usp=sharing
 
 3. Descripción del Dataset
 El dataset Iris contiene 150 registros de flores con 4 características principales y la etiqueta de clase.
